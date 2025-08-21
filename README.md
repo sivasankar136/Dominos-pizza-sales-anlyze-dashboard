@@ -45,7 +45,7 @@ Connect to the dataset (if needed).
 Explore interactive visuals & insights.
 
 📸 Dashboard Preview
-
+[https://github.com/sivasankar136/Dominos-pizza-sales-anlyze-dashboard/blob/main/WhatsApp%20Image%202025-08-21%20at%202.39.12%20PM%20(1).jpeg?raw=true]
 🍕 Domino’s Pizza Sales Analysis – Power BI Project
 📌 Project Overview
 
