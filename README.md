@@ -22,7 +22,7 @@ The interactive dashboard helps identify key business drivers and supports data-
 ## 📊 Dashboard Preview
 Here’s a snapshot of the Power BI dashboard:
 
-![Domino's Pizza Dashboard]()
+![Domino's Pizza Dashboard](https://github.com/sivasankar136/Dominos-pizza-sales-anlyze-dashboard/blob/main/WhatsApp%20Image%202025-08-21%20at%202.39.12%20PM%20(1).jpeg?raw=true)
 
 *(Replace the above path with the actual path or URL of your dashboard image)*  
 
