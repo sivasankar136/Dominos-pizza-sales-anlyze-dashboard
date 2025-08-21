@@ -112,31 +112,11 @@ This analysis helps Domino’s understand customer preferences, optimize sales s
 
 👨‍💻 Author
 
-Bhuvanesh
-📧 [Your Email]
+sivasankar 
+📧 [sankarsivavijay@gmail.com]
 🔗 [Your LinkedIn/GitHub Portfolio]
 
-👉 Do you want me to create a downloadable README.md file for you so you can directly add it to your project folder?
-(Add screenshots of your Power BI dashboard here for better presentation.)
 
-📈 Insights Gained
 
-Peak sales occur during weekends and evenings.
 
-Classic and Supreme pizzas generate the highest revenue.
 
-Small-size pizzas are ordered most frequently, but large-size pizzas bring more profit.
-
-Seasonal demand spikes suggest opportunities for targeted promotions.
-
-🎯 Conclusion
-
-This analysis helps Domino’s understand customer preferences, optimize sales strategies, and improve operational efficiency. With data-driven insights, better business decisions can be made.
-
-👨‍💻 Author
-
-Bhuvanesh
-📧 [Your Email]
-🔗 [Your LinkedIn/GitHub Portfolio]
-
-👉 Do you want me to create a downloadable README.md file for you so you can directly add it to your project folder?
